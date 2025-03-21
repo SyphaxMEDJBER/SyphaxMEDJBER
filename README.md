@@ -18,5 +18,5 @@
 - 🔭 Always working on side projects to level up
 - 🛠 Open to collaboration and exchanging ideas
 
-Thanks for passing by! 😊
+Thanks for passing by! ❤️
 
