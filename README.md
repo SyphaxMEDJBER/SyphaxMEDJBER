@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Syphax!
 
-🎓 I'm a 2nd-year Computer Science student at the University of Avignon.  
+🎓 I'm a 3rd-year Computer Science student at the University of Avignon.  
 🌱 Currently building small web projects and exploring different areas in tech.  
 📚 Always curious, always building — because learning never stops.  
 💬 Ask me about programming logic, Java basics, or anything web-related.  
