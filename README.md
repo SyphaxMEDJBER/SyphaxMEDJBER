@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uapv2500230&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=uapv2500230&show_icons=true&theme=tokyonight)
 
 
 
