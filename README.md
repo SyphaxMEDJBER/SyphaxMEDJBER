@@ -28,13 +28,6 @@
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=uapv2500230&show_icons=true&theme=tokyonight)
-
-
 
 ---
 
