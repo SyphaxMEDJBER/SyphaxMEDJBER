@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![Syphax's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyphaxMEDJBER&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uapv2500230&show_icons=true&theme=tokyonight)
 
 
 
