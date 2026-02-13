@@ -1,9 +1,10 @@
 # 👋 Hello, I'm Syphax!
 
-🎓 I'm a 3rd-year Computer Science student at the University of Avignon.  
-🌱 Currently building small web projects and exploring different areas in tech.  
-📚 Always curious, always building — because learning never stops.  
-💬 Ask me about programming logic, Java basics, or anything web-related.  
+🎓 3rd-year Computer Science student at the University of Avignon.  
+💻 I design and develop web applications (front-end & back-end).  
+🌐 Strong interest in networking, currently improving my skills in network architecture and configuration.  
+🚀 Passionate about building practical projects and continuously strengthening my technical foundations.  
+💬 Feel free to ask me about web development, Java, programming logic, or networking basics.
 
 ---
 
